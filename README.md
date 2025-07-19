@@ -1,6 +1,6 @@
 # 👋 HI! I'm Leon
 ##  About Me:
- I'm a frontend dev, <br>combining my expertise in critical healthcare systems with modern web technologies <br> my main technologies are React, TypeScript, CSS, and HTML.<br><br> I'm looking to collaborate on web applications where my unique background<br> in medical equipment, surgical support and technical training can create user-centered solutions.<br><br> I'm looking for help with expanding my frontend development skills and <br>connecting with teams building innovative web applications.<br><br>I'm learning advanced frontend development through <br>Google and Reichman Tech School program (December 2024 - September 2025), <br>focusing on building scalable web applications.<br><br>
+ I'm a frontend dev, <br>combining my expertise in critical healthcare systems with modern web technologies <br> my main technologies are React, TypeScript, CSS, and HTML.<br><br> I'm looking to collaborate on web applications where my unique background<br> in medical equipment, surgical support and technical training can create user-centered solutions.<br><br> I'm looking for help with expanding my frontend development skills and <br>connecting with teams building innovative web applications.<br><br>I'm learning advanced frontend development through <br>Google and Reichman Tech School program (December 2024 - September 2025), <br>focusing on building scalable web applications.
 
 ### You can view my CV [here](https://drive.google.com/file/d/1fTYkjFDYammEjuQHna8-Wn-nikpVyCSA/view?usp=sharing).
 
