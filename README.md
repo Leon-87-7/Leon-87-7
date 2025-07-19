@@ -2,6 +2,9 @@
 ##  About Me:
  I'm a frontend dev, <br>combining my expertise in critical healthcare systems with modern web technologies <br> my main technologies are React, TypeScript, CSS, and HTML.<br><br> I'm looking to collaborate on web applications where my unique background<br> in medical equipment, surgical support and technical training can create user-centered solutions.<br><br> I'm looking for help with expanding my frontend development skills and <br>connecting with teams building innovative web applications.<br><br>I'm learning advanced frontend development through <br>Google and Reichman Tech School program (December 2024 - September 2025), <br>focusing on building scalable web applications.<br><br><br> Fun fact<br>When I'm not coding or managing medical equipment, you'll find me making fresh pasta from scratch!<br><br> <!-- *(sales rep and application specialist) -->
 
+### You can view [my CV][cv-link] here.
+
+[cv-link](https://drive.google.com/file/d/1fTYkjFDYammEjuQHna8-Wn-nikpVyCSA/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/leon-eidelman-frontend/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leoneidelman09@gmail.com) 
